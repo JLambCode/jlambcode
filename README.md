@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-## 🗄 Resume
+## 📃 Resume
 [View my resume (PDF)](./Jeremy_Lamb_Resume.pdf)
